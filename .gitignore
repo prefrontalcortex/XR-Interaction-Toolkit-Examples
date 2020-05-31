@@ -1,3 +1,10 @@
+
+# Jetbrain Rider Cache
+.idea/
+*/Plugins/Editor/JetBrains*
+
+
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
